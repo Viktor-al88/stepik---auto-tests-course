@@ -1,3 +1,4 @@
 # stepik---auto-tests-course
 Homework for Software Test Automation Course
-https://stepik.org
+
+Репозитарий для домашних заданий по курсу https://stepik.org/course/575
